@@ -28,6 +28,6 @@ done
 
 #Provide Error Code 
 echo -e "\e[32m* Initalizing Startup..\3[0m"
-echo -e "\e[32m* For Proper Startup Please go to https://ptero.joshseveros.cloud"
+echo -e "\e[32m* For Proper Startup Please go to https://ptero.joshsevero.dev"
 echo -e "[ERROR] Startup Failed: Script not yet setup ERROR CODE: 1" 
 exit;;
