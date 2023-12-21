@@ -1,7 +1,7 @@
 {
     "bot": {
-        "name": "My Bot",
-        "author": "My Name"
+        "name": "Project-Phoenix",
+        "author": "Tanner Schermerhorn"
     },
     "emojis": {
         "yes": "✅",
@@ -23,12 +23,12 @@
         "error": "#ff4a4a"
     },
     "links": {
-        "author": "https://github.com/",
+        "author": "https://github.com/soundphoenix428",
         "docs": "https://top.gg/",
         "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EW389DYYSS4FC",
         "invite": "https://discord.com/",
-        "source": "https://github.com/",
-        "stream": "https://www.twitch.tv/novakevin",
+        "source": "https://github.com/KevinNovak",
+        "stream": "https://www.twitch.tv/SoundPhoenix428",
         "support": "https://support.discord.com/",
         "template": "https://github.com/KevinNovak/Discord-Bot-TypeScript-Template",
         "terms": "https://github.com/KevinNovak/Discord-Bot-TypeScript-Template/blob/master/LEGAL.md#terms-of-service",
